@@ -1,0 +1,298 @@
+City,County (US only),State/Province,Country,Ob Type,ID,Lat,Lon,Date,Time (UTC),Height (m),Sustained (kt),Gust (kt)
+Bartow,Polk,FL,US,ASOS,KBOW,27.95,81.79,29,15,10,41*,56*
+Brooksville,Hernando,FL,US,ASOS,KBKV,28.48,82.47,28,2350,10,27,45
+Bunnell,Flagler,FL,US,ASOS,KFIN,29.47,81.20,29,1015,10,30*,49*
+Cape Canaveral,Brevard,FL,US,ASOS,KXMR,28.46,80.56,29,1846,10,44,63
+Cocoa,Brevard,FL,US,ASOS,KCOF,28.23,80.59,29,401,10,41,57
+Daytona Beach,Volusia,FL,US,ASOS,KDAB,29.18,81.05,29,1134,10,54,70
+Ft. Myers,Lee,FL,US,ASOS,KRSW,26.54,81.76,28,1935,10,60*,96*
+Ft. Myers,Lee,FL,US,ASOS,KFMY,26.58,81.87,28,1440,10,33*,58*
+Ft. Pierce,St. Lucie,FL,US,ASOS,KFPR,27.50,80.38,29,253,10,39,57
+Gainesville,Alachua,FL,US,ASOS,KGNV,29.68,82.27,29,1353,10,27,51
+Jacksonville,Duval,FL,US,ASOS,KCRG,30.33,81.52,29,1033,10,29,52
+Jacksonville,Duval,FL,US,ASOS,KNIP,30.24,81.68,29,2153,10,35,48
+Jacksonville,Duval,FL,US,ASOS,KJAX,30.49,81.69,29,1456,10,33,46
+Key West,Monroe,FL,US,ASOS,KEYW,24.56,81.76,28,318,10,48,69
+Key West,Monroe,FL,US,ASOS,KNQX,24.58,81.68,28,406,10,50,59
+Kissimmee,Osceola,FL,US,ASOS,KISM,28.29,81.43,29,1256,10,34,48
+Lakeland,Polk,FL,US,ASOS,KLAL,27.99,82.01,28,2315,10,41*,54*
+Lake Wales,Polk,FL,US,ASOS,KX07,27.89,81.62,28,2155,10,35*,48*
+Leesburg,Lake,FL,US,ASOS,KLEE,28.82,81.80,29,942,10,36,49
+Marathon,Monroe,FL,US,ASOS,KMTH,24.73,81.05,28,558,10,28,52
+Mayport,Duval,FL,US,ASOS,KNRB,30.39,81.42,29,1740,10,40,56
+Melbourne,Brevard,FL,US,ASOS,KMLB,28.10,80.64,29,1747,10,40,57
+Naples,Collier,FL,US,ASOS,KAPF,26.15,81.77,28,1330,10,39*,54*
+Okeechobee,Okeechobee,FL,US,ASOS,KOBE,27.26,80.84,29,135,10,39*,64*
+Orlando,Orange,FL,US,ASOS,KMCO,28.42,81.31,29,1410,10,46,64
+Orlando,Orange,FL,US,ASOS,KORL,28.54,81.33,29,345,10,37*,51*
+Plant City,Hillsborough,FL,US,ASOS,KPCM,28.00,82.16,28,2255,10,30,46
+Pompano Beach,Broward,FL,US,ASOS,KPMP,26.25,80.12,28,753,10,34,45
+Punta Gorda,Charlotte,FL,US,ASOS,KPGD,26.92,81.99,28,2014,10,76*,117*
+Sanford,Seminole,FL,US,ASOS,KSFB,28.77,81.23,29,1453,10,43,60
+Sarasota,Manatee,FL,US,ASOS,KSRQ,27.40,82.55,28,2106,10,53,75
+Sebastian,Indian River,FL,US,ASOS,KX26,27.81,80.50,29,335,10,32,47
+Sebring,Highlands,FL,US,ASOS,KSEF,27.46,81.34,29,115,10,50,68
+St. Augustine,St. Johns,FL,US,AWOS,KSGJ,29.95,81.34,29,1220,10,37,49
+St. Petersburg,Pinellas,FL,US,ASOS,KSPG,27.77,82.63,28,1953,10,46,67
+St. Petersburg,Pinellas,FL,US,ASOS,KPIE,27.91,82.69,28,1954,10,40,64
+Tampa,Hillsborough,FL,US,ASOS,KTPA,27.97,82.53,28,1950,10,32*,65*
+Tampa,Hillsborough,FL,US,ASOS,KMCF,27.86,82.52,29,155,10,36,53
+Titusville,Brevard,FL,US,ASOS,KTTS,28.61,80.69,29,1840,10,44,57
+Venice,Sarasota,FL,US,ASOS,KVNC,27.07,82.44,28,1915,10,56*,71*
+Vero Beach,Indian River,FL,US,ASOS,KVRB,27.65,80.41,29,453,10,43,57
+Zephyrhills,Pasco,FL,US,ASOS,KZPH,28.23,82.16,29,255,10,31,45
+Alligator Reef Light,Monroe,FL,US,WeatherFlow,XALG,24.85,80.62,28,524,7.5,39,55
+Biscayne Bay Light,Miami-Dade,FL,US,WeatherFlow,XKBS,25.66,80.19,28,649,6,44,52
+Buck Island,Duval,FL,US,WeatherFlow,XJAK,30.40,81.47,29,1639,10,51,60
+Carysfort Reef,Miami-Dade,FL,US,WeatherFlow,XCFL,25.23,80.21,28,603,14.5,41,55
+Cocoa Beach,Brevard,FL,US,WeatherFlow,XCOA,28.31,80.63,29,350,10,39,58
+Cocoa Beach Pier,Brevard,FL,US,WeatherFlow,XCCO,28.37,80.59,29,541,12,41,61
+Clam Bayou,Pinellas,FL,US,WeatherFlow,XCBN,27.74,82.69,28,2003,10,29,51
+Crescent Beach,St. Johns,FL,US,WeatherFlow,XHSE,29.72,81.23,29,2222,5,42,56
+Dania Pier,Broward,FL,US,WeatherFlow,XDAN,26.06,80.11,28,1126,9,41,50
+Desoto,Lee,FL,US,WeatherFlow,XDSO,26.67,81.77,28,2013,15,45,68
+Dodge Island,Miami-Dade,FL,US,WeatherFlow,XBBH,25.77,80.15,28,548,13,36,45
+Dunedin,Pinellas,FL,US,WeatherFlow,XDUN,28.06,82.81,28,2005,6,34,49
+Government Cut,Miami-Dade,FL,US,WeatherFlow,XGVT,25.75,80.10,28,656,23,48,57
+Grant Indian River,Brevard,FL,US,WeatherFlow,XIND,27.96,80.53,29,354,5,45,59
+Griffin,Polk,FL,US,WeatherFlow,XGRF,28.08,82.04,29,340,15,30,63
+Grove City,Charlotte,FL,US,WeatherFlow,XGRV,26.90,82.32,28,2111,20,82,113
+Hillsboro Inlet,Broward,FL,US,WeatherFlow,XHBI,26.26,80.08,28,1040,5,37*,50*
+Huguenot Park,Duval,FL,US,WeatherFlow,XHUP,30.42,81.41,29,1528,12,53,62
+Jensen Beach,Martin,FL,US,WeatherFlow,XJEN,27.22,80.20,29,319,5,36,53
+Juno Beach,Palm Beach,FL,US,WeatherFlow,XJUP,26.89,80.06,29,305,6,44,56
+Key West,Monroe,FL,US,WeatherFlow,XSMS,24.57,81.80,28,429,10,42,64
+Marathon,Monroe,FL,US,WeatherFlow,XKEY,24.74,80.98,28,151,13,37,50
+Melbourne Beach,Brevard,FL,US,WeatherFlow,XMBI,27.90,80.47,29,319,10,47,70
+Melbourne Dairy,Brevard,FL,US,WeatherFlow,XDAI,28.04,80.64,29,417,15,38,51
+Merritt Island,Brevard,FL,US,WeatherFlow,XCCB,28.36,80.66,29,1829,5,43,53
+Naples,Collier,FL,US,WeatherFlow,XNPZ,26.17,81.79,28,1952,10,35*,54*
+New Pass Shoal,Sarasota,FL,US,WeatherFlow,XILD,27.32,82.60,28,2104,5,55,74
+New Smyrna Beach,Volusia,FL,US,WeatherFlow,XNSB,29.05,80.90,29,837,10,63,83
+Port Everglades,Broward,FL,US,WeatherFlow,XPEG,26.09,80.11,28,1130,41,38,57
+Reedy Lake,Orange,FL,US,WeatherFlow,XRDY,28.44,81.63,29,821,15,38,54
+Rocky Point,Brevard,FL,US,WeatherFlow,XRPT,27.98,80.55,29,426,5.7,42,62
+Sarasota,Sarasota,FL,US,WeatherFlow,XSAR,27.35,82.52,28,2132,20,34,65
+Sarasota Bay,Sarasota,FL,US,WeatherFlow,XSRB,27.34,82.57,28,2104,5,53,92
+Skyway Pier,Hillsborough,FL,US,WeatherFlow,XSKY,27.60,82.65,28,2011,15.5,50,65
+Smith Shoal Light,Monroe,FL,US,WeatherFlow,XSMS,24.72,81.92,28,518,19,63,84
+South Naples,Collier,FL,US,WeatherFlow,XCAP,26.04,81.70,28,1541,15,35*,58*
+Spring Lake,Seminole,FL,US,WeatherFlow,XSPR,28.66,81.41,29,737,15,38,59
+St. Augustine,St. Johns,FL,US,WeatherFlow,XLWS,29.92,81.32,29,2116,15,39,55
+St. Lucie,St. Lucie,FL,US,WeatherFlow,XSTL,27.35,80.23,29,7,10,42,49
+Tampa Bay Cut,Pinellas,FL,US,WeatherFlow,XTAM,27.76,82.57,28,2004,14.6,51,76
+Tarpon Point,Lee,FL,US,WeatherFlow,XTRP,26.54,82.00,28,1811,10,67,103
+Titusville,Brevard,FL,US,WeatherFlow,XPAR,28.63,80.81,29,1803,5.5,45,58
+Turkey Point,Miami-Dade,FL,US,WeatherFlow,XTKY,25.43,80.35,28,405,20,42,47
+Vero Beach,Indian River,FL,US,WeatherFlow,XVER,27.63,80.39,29,331,10,31,45
+Fowey Rocks,Miami-Dade,FL,US,C-MAN,FWYF1,25.59,80.09,28,1750,44,43*,51*
+Long Key Light,Monroe,FL,US,C-MAN,LONF1,24.84,80.86,28,640,7,41,48
+Sombrero Key Light,Monroe,FL,US,C-MAN,SMKF1,24.63,81.11,28,810,6,41,48
+St. Augustine,St. Johns,FL,US,C-MAN,SAUF1,29.86,81.26,29,1910,8,49,60
+Venice,Sarasota,FL,US,C-MAN,VENF1,27.07,82.45,28,2100,11.6,71,92
+Clearwater Beach,Pinellas,FL,US,NOS,CWBF1,27.98,82.83,29,448,8,45,57
+Ft. Myers,Lee,FL,US,NOS,FMRF1,26.65,81.87,28,2336,8,50,70
+Key West,Monroe,FL,US,NOS,KYWF1,25.55,81.88,28,506,15,39,52
+Lake Worth,Palm Beach,FL,US,NOS,LKWF1,26.61,80.03,28,1818,,39,50
+Mayport,Duval,FL,US,NOS,MYPF1,30.40,81.43,29,1612,6,41,53
+Naples,Collier,FL,US,NOS,NPSF1,26.13,81.81,28,1706,,49*,61*
+Old Port Tampa,Hillsborough,FL,US,NOS,OPTF1,27.86,82.55,28,2342,,38,57
+Port Everglades,Broward,FL,US,NOS,PEGF1,26.08,80.12,28,1130,44,43,55
+St. Petersburg,Pinellas,FL,US,NOS,SAPF1,27.76,82.63,28,1954,8,37,52
+Tampa Bay,,FL,US,NOS,MTBF1,27.66,82.59,28,1954,6.7,53,66
+Tampa,Hillsborough,FL,US,NOS,TPAF1,27.93,82.43,29,0,,31,48
+Trident Pier,,FL,US,NOS,TRDF1,28.41,80.59,29,1848,,33,49
+Rookery Bay,Collier,FL,US,HADS,RKXF1,26.03,81.70,28,1800,,28,52
+Big Carlos Pass,,FL,US,COMPS,BGCF1,26.40,81.88,28,1900,17.3,77,94
+Fred Howard Park,Pinellas,FL,US,COMPS,FHPF1,28.15,82.80,29,430,9.4,41,52
+Arcadia,DeSoto,FL,US,WeatherStem,0335W,27.22,81.86,29,430,,41*,65*
+Archbold 4 SE,Highlands,FL,US,WeatherStem,0916W,27.16,81.29,29,0,,48,62
+Avon Park,Highlands,FL,US,WeatherStem,1952W,27.56,81.52,28,2230,,43,54
+Boca Raton,Palm Beach,FL,US,WeatherStem,0430W,26.38,80.10,28,1810,,44*,49*
+Bradenton,Manatee,FL,US,WeatherStem,0400W,27.44,82.61,28,1930,,34*,51*
+Brighton 7.9W,Highlands,FL,US,WeatherStem,0919W,27.19,81.22,29,150,,44,67
+Buckhead Ridge,Glades,FL,US,WeatherStem,1920W,27.14,80.88,28,2250,,44,60
+Cape Coral,Lee,FL,US,WeatherStem,0492W,26.54,81.95,28,2020,,94,122
+Cape Coral,Lee,FL,US,WeatherStem,1212W,26.63,81.96,29,350,,35*,54*
+Cape Coral,Lee,FL,US,WeatherStem,1434W,26.65,82.04,28,1840,,80*,96*
+Clearwater,Pinellas,FL,US,WeatherStem,0579W,27.96,82.80,28,1800,,42,51
+Clearwater 1.4 SE,Pinellas,FL,US,WeatherStem,0550W,27.95,82.75,28,2020,,29*,47*
+Daytona Beach,Volusia,FL,US,WeatherStem,0104W,29.19,81.05,29,1000,,46,58
+Delray Beach,Palm Beach,FL,US,WeatherStem,1840W,26.44,80.06,28,1620,18,35,42
+Delray Beach North,Palm Beach,FL,US,WeatherStem,1847W,26.47,80.06,28,1910,,40,47
+Deltona,Volusia,FL,US,WeatherStem,0488W,28.89,81.17,29,1210,,35*,53*
+Duck Key,Monroe,FL,US,WeatherStem,1846W,24.77,80.91,28,520,,40*,55*
+East Naples,Collier,FL,US,WeatherStem,0707W,26.11,81.77,28,1920,,50*,77*
+Estero,Lee,FL,US,WeatherStem,0529W,26.43,81.79,28,2130,,56*,83*
+Estero,Lee,FL,US,WeatherStem,0369W,26.46,81.78,28,1940,,57*,74*
+FGCU,Lee,FL,US,WeatherStem,1809W,26.66,81.73,28,2250,,34,54
+Ft. George Island,Duval,FL,US,WeatherStem,1483W,30.39,81.44,29,1400,,36,47
+Gifford,Indian River,FL,US,WeatherStem,0203W,27.67,80.43,29,510,,30,50
+Heathrow,Seminole,FL,US,WeatherStem,0459W,28.78,81.38,29,1300,,36*,53*
+Hicoria,Highlands,FL,US,WeatherStem,1158W,27.15,81.34,28,2200,,49,69
+Highlands Lake,Highlands,FL,US,WeatherStem,1958W,27.60,81.46,28,2330,,39,52
+Highlands Venus,Highlands,FL,US,WeatherStem,1961W,27.08,81.39,28,2300,,49,63
+Horseshoe Beach,Dixie,FL,US,WeatherStem,1462W,29.44,83.30,28,1740,,33,42
+Immokalee,Collier,FL,US,WeatherStem,0368W,26.42,81.43,28,2230,,45*,70*
+Intercession City,Osceola,FL,US,WeatherStem,0150W,28.23,81.49,29,250,,36*,47*
+Jacksonville Beach,Duval,FL,US,WeatherStem,1618W,30.29,81.39,29,1850,,51,57
+Key West,Monroe,FL,US,WeatherStem,0470W,24.55,81.78,27,2140,,35*,47*
+Kissimmee,Osceola,FL,US,WeatherStem,1466W,28.30,81.37,29,510,,30,49
+LaBelle,Hendry,FL,US,WeatherStem,0333W,26.77,81.44,29,1000,,29*,46*
+Lake Nona,Orange,FL,US,WeatherStem,0391W,28.37,81.25,29,1120,,34*,53*
+Lake Okeechobee,Okeechobee,FL,US,WeatherStem,1636W,27.20,80.83,29,130,,51,64
+Lake Placid,Highlands,FL,US,WeatherStem,0394W,27.29,81.37,28,2220,,46*,57*
+Lake Placid,Highlands,FL,US,WeatherStem,1966W,27.30,81.37,29,110,,38,61
+Lakeport,Glades,FL,US,WeatherStem,1978W,26.99,81.07,28,2330,,49,57
+Land O' Lakes,Pasco,FL,US,WeatherStem,1607W,28.22,82.46,29,30,,36,46
+Largo,Pinellas,FL,US,WeatherStem,1443W,27.89,82.74,28,2250,,27*,46*
+Lehigh Acres,Lee,FL,US,WeatherStem,0433W,26.62,81.73,28,2010,,75*,90*
+Lely,Collier,FL,US,WeatherStem,0574W,26.08,81.72,28,2030,,41*,51*
+Maitland,Orange,FL,US,WeatherStem,1341W,28.63,81.36,29,1120,,38,50
+Marathon,Monroe,FL,US,WeatherStem,0468W,24.70,81.08,28,450,,39,50
+Marineland,Flagler,FL,US,WeatherStem,1423W,29.67,81.21,29,1040,,57,70
+Miami,Miami-Dade,FL,US,WeatherStem,0235W,25.79,80.22,28,1810,57,36,48
+Moore Haven,Glades,FL,US,WeatherStem,0317W,26.83,81.10,28,2240,,48*,65*
+Moore Haven,Glades,FL,US,WeatherStem,1915W,26.84,81.12,28,2110,,43,58
+Moore Haven,Glades,FL,US,WeatherStem,1918W,26.84,81.08,28,2250,,36,57
+Okeechobee,Okeechobee,FL,US,WeatherStem,0228W,27.24,80.84,29,150,,38*,62*
+Okeechobee,Okeechobee,FL,US,WeatherStem,1637W,27.25,80.84,29,140,,42,58
+,Okeechobee,FL,US,WeatherStem,1642W,27.58,81.04,29,310,,46,56
+Okeechobee North,Okeechobee,FL,US,WeatherStem,1639W,27.40,80.81,29,310,,47,76
+Palm Coast,Flagler,FL,US,WeatherStem,0038W,29.58,81.26,29,1300,,30*,46*
+Palm Coast,Flagler,FL,US,WeatherStem,1334W,29.57,81.19,29,1410,,42,50
+Pinellas Park,Pinellas,FL,US,WeatherStem,0551W,27.88,82.73,28,2110,,29*,50*
+Ponce Inlet,Volusia,FL,US,WeatherStem,0834W,29.12,80.95,29,1250,,48,62
+Ponte Vedra Beach,St. Johns,FL,US,WeatherStem,1426W,29.99,81.32,29,840,,47,52
+Port Canaveral,Brevard,FL,US,WeatherStem,1145W,28.41,80.63,29,610,,35,48
+Port Charlotte,Charlotte,FL,US,WeatherStem,0370W,27.00,82.08,28,2240,,60*,78*
+Rookery Bay,Collier,FL,US,WeatherStem,1571W,26.05,81.70,28,2200,,41*,65*
+Sanford,Seminole,FL,US,WeatherStem,1909W,28.79,81.31,29,1300,,37*,55*
+Sarasota,Sarasota,FL,US,WeatherStem,0128W,27.38,82.56,28,1750,,41*,57*
+Sebring,Highlands,FL,US,WeatherStem,1955W,27.44,81.42,28,2220,,40,59
+Sebring,Highlands,FL,US,WeatherStem,1964W,27.49,81.42,28,2340,,41,53
+St. Augustine,St. Johns,FL,US,WeatherStem,1695W,29.89,81.31,29,2250,,41,49
+St. Lucie,St. Lucie,FL,US,WeatherStem,1499W,27.37,80.48,29,1240,,36,50
+St. Petersburg,Pinellas,FL,US,WeatherStem,0542W,27.76,82.66,28,1910,,37*,50*
+St. Petersburg,Pinellas,FL,US,WeatherStem,0548W,27.79,82.73,28,2220,,32*,51*
+St. Petersburg 3S,Pinellas,FL,US,WeatherStem,0040W,27.71,82.66,29,20,,39,49
+Stuart Beach,Martin,FL,US,WeatherStem,1534W,27.20,80.17,29,610,,57,63
+Sunny Isles Beach,Miami-Dade,FL,US,WeatherStem,1843W,25.94,80.12,27,2310,,35,38
+Tampa,Hillsborough,FL,US,WeatherStem,1779W,27.95,82.45,29,50,,35,56
+Tampa,Hillsborough,FL,US,WeatherStem,1829W,27.98,82.53,28,2200,23,47,57
+Tampa,Hillsborough,FL,US,WeatherStem,0371W,27.96,82.47,29,330,,30*,47*
+Tampa,Hillsborough,FL,US,WeatherStem,1754W,27.98,82.50,28,2230,19,42,47
+Tampa - USF,Hillsborough,FL,US,WeatherStem,1569W,28.06,82.41,28,2300,,39,51
+University Park,Orange,FL,US,WeatherStem,0280W,28.59,81.20,29,1310,,38*,54*
+Vamo 2.6 NE,Sarasota,FL,US,WeatherStem,1209W,27.25,82.46,28,2010,,49,61
+Vero Beach,Indian River,FL,US,WeatherStem,0431W,27.60,80.40,29,630,,30*,48*
+Vero Beach,Indian River,FL,US,WeatherStem,1633W,27.65,80.37,29,440,,40,46
+Virginia Key,Miami-Dade,FL,US,WeatherStem,0234W,25.73,80.16,28,1610,20,43,57
+Wauchula,Hardee,FL,US,WeatherStem,0231W,27.54,81.82,29,420,,52*,70*
+Windermere,Orange,FL,US,WeatherStem,1761W,28.48,81.57,29,1300,,31,48
+Winter Springs,Seminole,FL,US,WeatherStem,1805W,28.70,81.27,29,1330,,39,53
+Avon Park,Highlands,FL,US,RAWS,APRF1,27.60,81.21,29,22,,34*,60*
+Avon Park,Polk,FL,US,RAWS,TT601,27.69,81.33,29,101,,34,55
+Brighton,Glades,FL,US,RAWS,GHTF1,27.12,81.08,29,32,6,21,48
+Ding Darling NWR,Lee,FL,US,RAWS,TS755,26.44,82.11,28,1717,,45*,85*
+Lake Wales,Highlands,FL,US,RAWS,LWEF1,27.44,81.39,28,2346,,23,59
+Lake Woodruff,Volusia,FL,US,RAWS,LWQF1,29.10,81.37,29,717,,,38
+Merritt Island 20N,Brevard,FL,US,RAWS,MRFF1,28.64,80.73,29,1815,,20,45
+Ochopee,Collier,FL,US,RAWS,OCOF1,25.90,81.32,28,1303,,29,45
+Bartow,Polk,FL,US,CWOP,AP769,27.88,81.82,29,658,,,68
+Bartow Airport,Polk,FL,US,CWOP,AP837,27.95,81.79,29,244,,36,64
+Belleair,Pinellas,FL,US,CWOP,EW6508,27.95,82.81,29,546,,43,57
+Bowling Green,Hardee,FL,US,CWOP,CW6573,27.63,81.83,29,146,,32*,55*
+Cape Coral,Lee,FL,US,CWOP,CW3609,26.55,82.01,28,1610,,39*,46*
+Clearwater Beach,Pinellas,FL,US,CWOP,AV996,27.97,82.83,29,605,,43,56
+Clearwater Beach,Pinellas,FL,US,CWOP,FW1789,27.99,82.83,29,840,,40,53
+Cudjoe Key,Monroe,FL,US,CWOP,CW0925,24.65,81.48,28,233,,37,51
+Davenport,Polk,FL,US,CWOP,AS292,28.25,81.65,29,950,,36,44
+Davenport,Polk,FL,US,CWOP,EW1114,28.18,81.62,29,845,,29,47
+Daytona Beach,Volusia,FL,US,CWOP,EW4959,29.18,81.07,29,235,,30*,52*
+Daytona Beach,Volusia,FL,US,CWOP,EW9392,29.19,81.07,29,1220,,30,55
+Deland,Volusia,FL,US,CWOP,FW9964,29.00,81.25,29,1400,,23,48
+Flagler Beach,Flagler,FL,US,CWOP,FW7349,29.46,81.12,29,1300,,37,56
+Frostproof,Polk,FL,US,CWOP,AR664,27.76,81.57,29,102,,44,52
+Ft. Meade 5 W,Polk,FL,US,CWOP,AR663,27.75,81.89,29,11,,45,75
+Ft. Myers,Lee,FL,US,CWOP,KA4TEV,26.51,81.95,28,1834,,31*,55*
+Ft. Pierce,St. Lucie,FL,US,CWOP,FW7020,27.46,80.30,29,334,,29*,52*
+Indian Lake,Polk,FL,US,CWOP,AR665,27.79,81.33,28,2047,,27,36
+Jacksonville,Duval,FL,US,CWOP,FW3614,30.26,81.45,29,2010,,27,50
+Jupiter,Palm Beach,FL,US,CWOP,FW8656,26.94,80.12,28,312,,21,51
+Lakeland,Polk,FL,US,CWOP,AR692,27.96,81.95,29,30,,45,68
+Lakeland,Polk,FL,US,CWOP,AU495,28.16,82.01,29,351,,29,55
+Lakeland,Polk,FL,US,CWOP,FW0669,28.00,81.93,28,2347,,30,56
+Lake Nona,Orange,FL,US,CWOP,EW8669,28.39,81.18,29,605,,21,43
+Lakewood Ranch,Manatee,FL,US,CWOP,EW9605,27.41,82.38,28,2146,,36,63
+Melbourne Beach,Brevard,FL,US,CWOP,DW8248,28.05,80.56,29,1811,,38,53
+Mulberry,Polk,FL,US,CWOP,AU494,28.25,81.65,29,4,,51,59
+Myakka City,Manatee,FL,US,CWOP,AS140,27.41,82.25,29,1438,,36,49
+Naples,Collier,FL,US,CWOP,EW5314,26.30,81.59,28,1830,,22*,45*
+Naples,Collier,FL,US,CWOP,GW1630,26.06,81.66,28,1612,,19*,48*
+Nokomis,Sarasota,FL,US,CWOP,AU426,27.13,82.43,28,1754,,30*,49*
+Okeechobee,Okeechobee,FL,US,CWOP,AR914,27.24,80.84,29,416,,20*,51*
+Orlando,Orange,FL,US,CWOP,AV251,28.49,81.27,29,1421,,28,50
+Orlando,Orange,FL,US,CWOP,E6710,28.50,81.08,29,35,,,31
+Orlando,Orange,FL,US,CWOP,GW0693,28.54,81.18,29,1446,,17,46
+Oviedo,Seminole,FL,US,CWOP,DW7073,28.66,81.19,29,1521,,25,38
+Plant City,Hillsborough,FL,US,CWOP,FW8487,27.97,82.08,28,2352,,36*,49*
+Polk City,Polk,FL,US,CWOP,AS291,28.20,81.79,29,559,,41,65
+Port St. John,Brevard,FL,US,CWOP,EW4411,28.49,80.81,29,1758,,24,44
+Port St. Lucie,St. Lucie,FL,US,CWOP,CW0262,27.28,80.33,29,432,,23*,47*
+Punta Gorda,Charlotte,FL,US,CWOP,FW6924,27.01,82.03,28,1929,,29*,52*
+Punta Gorda,Charlotte,FL,US,CWOP,GW1876,26.93,82.10,28,1900,,67*,89*
+Punta Gorda,Lee,FL,US,CWOP,GW1989,26.76,82.06,28,1701,,36*,57*
+Riverview,Hillsborough,FL,US,CWOP,DW9989,27.87,82.35,28,2327,,43,65
+Riverview,Hillsborough,FL,US,CWOP,AT743,27.82,82.26,29,433,,37,56
+Rockledge,Brevard,FL,US,CWOP,EW2787,28.34,80.72,29,610,,32,47
+Royal Palm Beach,Palm Beach,FL,US,CWOP,DW6869,26.80,80.31,29,409,,17,50
+Sebastian,Indian River,FL,US,CWOP,G0131,27.77,80.46,29,300,,24,47
+Sebring,Highlands,FL,US,CWOP,EW0408,27.50,81.48,28,2300,,38,75
+Seminole,Pinellas,FL,US,CWOP,FW8522,27.87,82.66,29,530,,26,49
+Seminole,Pinellas,FL,US,CWOP,FW8592,27.96,82.80,28,2316,,34,51
+St. James City,Lee,FL,US,CWOP,GW1444,26.50,82.09,28,1630,,50*,84*
+Sugarloaf Key,Monroe,FL,US,CWOP,FW5749,24.63,81.54,27,2335,,32,48
+Sun City Center,Hillsborough,FL,US,CWOP,AV797,27.71,82.36,28,2348,,39,65
+Titusville,Brevard,FL,US,CWOP,DW7756,28.55,80.84,29,1755,,,44
+Venice,Sarasota,FL,US,CWOP,FW2556,27.10,82.44,28,1106,,29*,48*
+Venus,Highlands,FL,US,CWOP,FW1889,27.04,81.44,28,2235,,19,48
+Verna,Manatee,FL,US,CWOP,AT742,27.41,82.25,29,40,,54,74
+Vero Beach,Indian River,FL,US,CWOP,FW2438,27.58,80.33,29,628,,25*,49*
+Vero Beach,Indian River,FL,US,CWOP,FW3572,27.64,80.39,29,300,,23,47
+Winter Haven,Polk,FL,US,CWOP,AU493,28.02,81.81,29,639,,24,45
+Apopka,Orange,FL,US,FAWN,POPF1,28.64,81.55,29,245,,28,53
+Arcadia,DeSoto,FL,US,FAWN,ARCAD,27.23,81.84,29,230,,52*,68*
+Avalon,Orange,FL,US,FAWN,VLNF1,28.47,81.65,29,345,,31,48
+Ayers,Hernando,FL,US,FAWN,BSPFL,28.47,82.44,29,130,,37,57
+Clewiston,Hendry,FL,US,FAWN,AIRGL,26.74,81.05,28,2300,10,43,58
+Ft. Pierce,St. Lucie,FL,US,FAWN,PCEF1,27.43,80.41,29,730,,23,49
+Joshua,DeSoto,FL,US,FAWN,JSHFL,27.26,81.61,28,2215,,38,77
+Lake Alfred,Polk,FL,US,FAWN,KALF1,28.10,81.71,28,2345,,19,45
+North Port,Sarasota,FL,US,FAWN,NPORT,27.14,82.34,28,2030,,45,60
+Okeechobee,Okeechobee,FL,US,FAWN,OKSF1,27.33,80.85,29,315,,34,63
+Palmdale,Glades,FL,US,FAWN,PALF1,26.92,81.31,28,2230,10,31,52
+Poinciana,Polk,FL,US,FAWN,PNAFL,28.08,81.41,29,45,,25,46
+St. Lucie West,St. Lucie,FL,US,FAWN,SLWF1,27.34,80.62,29,400,,31,50
+ACRAW,Martin,FL,US,SFWMD,ACRAW,27.12,80.43,29,315,,38,53
+Basinger,Okeechobee,FL,US,SFWMD,S65DWX,27.31,81.02,29,15,,42,61
+Brighton,Glades,FL,US,SFWMD,S75WX,27.20,81.13,29,45,6,43,59
+Lake Okeechobee ,Glades,FL,US,SFWMD,L005,26.96,80.94,28,2330,6,48,59
+Lake Oke Center,Palm Beach,FL,US,SFWMD,LZ40,26.90,80.79,29,315,6,44,54
+Lake Oke North,Okeechobee,FL,US,SFWMD,L001,27.14,80.79,28,2345,,42,51
+Lake Oke South,Palm Beach,FL,US,SFWMD,L006,26.82,80.78,29,245,6,43,51
+Lake Tohopekaliga,Osceola,FL,US,SFWMD,S61W,28.14,81.35,29,1330,,37,48
+Ortona,Glades,FL,US,SFWMD,S78W,26.79,81.30,28,2245,6,40,58
+Punta Gorda,Charlotte,FL,US,FCMP Tower 1,XUF1t-239671,26.93,81.99,28,1959,10,78,96
+Punta Gorda,Charlotte,FL,US,FCMP Tower 2,XUF2t-239676,26.90,82.02,28,2238,15,71,98
+Big Coppitt Key,Monroe,FL,US,Other,,24.60,81.65,28,532,,51,65
+Big Pine Key,Monroe,FL,US,Other,,24.67,81.35,28,516,,38,53
+Cudjoe Key,Monroe,FL,US,Other,,24.66,81.48,28,121,,33,51
+Delray Beach,Palm Beach,FL,US,Other,,26.47,80.06,28,1930,18,37,47
+Grove City,Charlotte,FL,US,Other,ENGPL,26.93,82.33,28,2029,,,56
+Key West,Monroe,FL,US,Other,,24.56,81.80,28,33,,34,57
+Naples,Collier,FL,US,Other,NPLSR,26.21,81.81,28,1630*,50,57,97
+Naples,Collier,FL,US,Other,NPLMP,26.15,81.77,28,1752,32,,91
+North Naples,,FL,US,Other,KBNPS,26.30,81.82,28,2335*,50,57,92
+Spruce Creek,Volusia,FL,US,Other,7FL6,29.08,81.05,29,755,,36*,54*
+Stock Island,Monroe,FL,US,Other,,24.56,81.73,28,632,,44,61
